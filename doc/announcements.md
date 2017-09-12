@@ -8,11 +8,11 @@ This file will serve as a reference point for upcoming announcements, both of th
 
 ### Further Module Name Changes in Core
 
-Over the years as the code base grew and new authors joined the team the core module naming has become increasingly inconsistent. In order to make module names predictable, remove obscure references (such as wht\\\_\*) and adhear to stronger coding standars we will be making these consistent. This will be the last refactor to core and as before the `scripts/wh-to-kz.sh` script will be extended to provide developers with a tool to refactor any modules they have created.
+Over the years as the code base grew and new authors joined the team the core module naming has become increasingly inconsistent. In order to make module names predictable, remove obscure references (such as wht\\\_\*) and adhere to stronger coding standards, we will be making these consistent. This will be the last refactor to core and as before the `scripts/wh-to-kz.sh` script will be extended to provide developers with a tool to refactor any modules they have created.
 
-This final refactor has been contentious as we discussed the value a consistent naming scheme in core would bring. This has delayed the final phase of the renaming initiative but we are now preparing to preform this action. We feel that the benefits outweigh disadvantages and understand that once 4.0 has been released as stable will not have an oppertunaty to correct this until the next major version.
+This final refactor has been contentious as we discussed the value a consistent naming scheme in core would bring. This has delayed the final phase of the renaming initiative but we are now preparing to preform this action. We feel that the benefits outweigh disadvantages and understand that once 4.0 has been released as stable we will not have an opportunity to correct this until the next major version.
 
-We hope that you agree and and are not inconvienced by this change. As always we are here to help or answer any questions! Thank you for your understaning.
+We hope that you agree and and are not inconvenienced by this change. As always we are here to help or answer any questions! Thank you for your understaning.
 
 
 ## Versions
